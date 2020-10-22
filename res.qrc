@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/0.png</file>
+        <file>res/1.png</file>
+        <file>res/2.png</file>
+        <file>res/3.png</file>
+        <file>res/4.png</file>
+        <file>res/5.png</file>
+        <file>res/6.png</file>
+        <file>res/7.png</file>
+        <file>res/8.png</file>
+        <file>res/click.wav</file>
+        <file>res/icon.ico</file>
+        <file>res/loading.gif</file>
+    </qresource>
+</RCC>
